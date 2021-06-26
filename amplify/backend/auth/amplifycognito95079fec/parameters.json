@@ -1,0 +1,6 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "amplifycognito95079fec",
+  "serviceType": "imported",
+  "region": "ap-south-1"
+}
