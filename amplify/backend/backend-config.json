@@ -1,11 +1,1 @@
-{
-  "auth": {
-    "amplifycognito8db7bb2c": {
-      "service": "Cognito",
-      "serviceType": "imported",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
-    }
-  }
-}
+{}
