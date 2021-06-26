@@ -13,12 +13,10 @@
     },
     "categories": {
       "auth": {
-        "amplifycognito8db7bb2c": {
           "userPoolId": "ap-south-1_QxsAhg80E",
           "userPoolName": "sample",
           "webClientId": "dli8i3nc5m9uighph98nf30k6",
           "nativeClientId": "dli8i3nc5m9uighph98nf30k6"
-        }
       }
     }
   }
